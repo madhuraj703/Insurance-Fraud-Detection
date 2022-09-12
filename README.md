@@ -8,9 +8,7 @@ Main focus is to reduce the workload by **20-30%** and focus on customers or oth
 
 Using power of Machine Learning algorithms following project titled **Insurance Fraud-Detection-using-Machine-Learning** was able to be sucessfull. 
 
-## Project Pipeline
 
-![image](assets/image/pipeline.jpg)
 
 ## Technologies Used
 
@@ -18,4 +16,3 @@ Using power of Machine Learning algorithms following project titled **Insurance 
 
 [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) 
 
-[<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" width=180>](https://www.sqlite.org/index.html)
